@@ -1,4 +1,4 @@
-# keyword-analysisa# SEO Keyword Research & Content Strategy for a 3D Printing Service Website
+## SEO Keyword Research & Content Strategy for a 3D Printing Service Website
 
 ## Overview
 
@@ -86,4 +86,4 @@ Based on the analysis, the proposed website should include:
 
 
 ## SITEMAP SUGGESTION 
-
+![sitemap](sitemap.jpg)
